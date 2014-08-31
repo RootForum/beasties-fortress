@@ -1,0 +1,36 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Beastie's Fortress 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-08-31 15:38+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/index.rst:7
+msgid "Welcome to Beastie's Fortress's documentation!"
+msgstr ""
+
+#: ../../source/index.rst:9
+msgid "Contents:"
+msgstr ""
+
+#: ../../source/index.rst:17
+msgid "Indices and tables"
+msgstr ""
+
+#: ../../source/index.rst:19
+msgid ":ref:`genindex`"
+msgstr ""
+
+#: ../../source/index.rst:20
+msgid ":ref:`modindex`"
+msgstr ""
+
+#: ../../source/index.rst:21
+msgid ":ref:`search`"
+msgstr ""
