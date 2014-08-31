@@ -4,9 +4,10 @@ Beastie's Fortress
 About
 -----
 
-Beastie's Fortress is an online book dedicated to advanced `FreeBSD`_ server
-administration concepts. It is built on a decade of tutorials, guides and FAQ
-entries contributed by its authors. Once completed, it will cover these topics:
+Beastie's Fortress is an online book project dedicated to advanced `FreeBSD`_
+server administration concepts. It is built on a decade of tutorials, guides and
+FAQ entries contributed by its authors. Once completed, it will cover these
+topics:
 
 * headless installation procedures
 * securing and tuning of the network stack
